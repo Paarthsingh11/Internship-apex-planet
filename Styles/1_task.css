@@ -1,0 +1,47 @@
+.body{
+  font-family: Arial;
+}
+h1, p{
+  margin: 5px;
+  padding: 5px;
+}
+.container{
+  align-items: center;
+  float: left;
+}
+.image{
+  float: left;
+  padding: 10px;
+  margin: 15px 30px;
+}
+
+.link{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.link a{
+  display: inline-block;
+  color: hotpink;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+a:hover {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+
+.css-click-button{
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 15px;
+  padding: 5px 15px;
+  margin: 10px;
+  cursor: pointer;
+}
